@@ -32,7 +32,7 @@ Tapi cukup hanya dengan menulis:
 ```
 Selanjutnya browser yang akan menambahkan attribute id secara otomatis. Cara ini akan membuat kode program menjadi jauh lebih bersih dan mudah dipelajari.
 
-# jQuery Magic Evaluation
+# jQuery Magic (Parent Evaluation)
 Kita juga bisa menerapkan Tehnik Magic dengan level yang lebih tinggi, dimana kita melakukan-nya dengan memaksimalkan serta sekaligus meningkatkan kemampuan dasar pemroses javascript, dengan memanfaatkan fungsi Evaluasi yang telah dimiliki oleh Javascript, perhatikan contoh berikut.
 ```Javascript
 $(document).ready(function() {
