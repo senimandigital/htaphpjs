@@ -98,4 +98,4 @@ Karakter $ pada javascript telah di korelasikan dengan kesempurnaan, maksudnya k
 ```Javascript
 $('selectror')
 ```
-Maka kita percaya outpunya tidak akan error, karena fungsi tersebut sudah dikostume untuk melakukan try dan error handling secara otomatis. bahkan meski itu bukan script resmi yang dikembangkan oleh develver jQuery.
+Maka kita percaya outpunya tidak akan error, karena fungsi tersebut sudah dikostume untuk melakukan try dan error handling secara otomatis. bahkan meski itu bukan script resmi yang dikembangkan oleh tim develover jQuery.
