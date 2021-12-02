@@ -36,8 +36,7 @@ Selanjutnya browser yang akan menambahkan attribute id secara otomatis. Cara ini
 Kita juga bisa menerapkan Tehnik Magic dengan level yang lebih tinggi, dimana kita melakukan-nya dengan memaksimalkan serta sekaligus meningkatkan kemampuan dasar pemroses javascript, dengan memanfaatkan fungsi Evaluasi yang telah dimiliki oleh Javascript, perhatikan contoh berikut.
 ```Javascript
 $(document).ready(function() {
- $("[watch]").each(function() {
-  $this = $(this);
+ $("[watch]").each(function() { $this = $(this);
   $( eval('$(this).attr( "watch" )') ).on({
     change: function() { 
       $.get( $this.attr('watch-innerhtml-reload-string-from-url') + $(this).val(), function(data){ $this.html( data );  });  
