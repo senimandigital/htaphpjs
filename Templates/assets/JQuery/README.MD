@@ -81,3 +81,10 @@ Dalam code diatas element select dengan id database dijadikan sebagai "parent/re
 Dalam dunia nyata, terkadang kita hanya tau siapa nama ayah, ibu serta nama-nama dari nakek dan nenek kita sedangkan untuk nama kakek dari kakek kita, kita belum tentu tahu, ketika mencoba bertanya ke orang tua kita mungkin jawaban merka adalah "pamali" nyebut nama orang tua.
 
 Namun kenyataanya kita tetap bisa menyebutkan satu atau dua nama leluhur kita, yaitu Adam dan Hawa.
+```Javascript
+$(document).ready(function(){
+  $("span").closest("ul").css({"color": "red", "border": "2px solid red"});
+});
+```
+# jQuery Magic Cousin Evaluation
+# jQuery Magic Falimy Evaluation
