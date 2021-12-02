@@ -10,7 +10,7 @@ Mindset Programing anda-lah hal pertama yang harus bejalan lurus ketika kita mul
 
 Apapun bahasa pemrograman yang kita pilih, hal pertama yang harus kita kuasai dan maksimalkan adalah skill dalam menguasai SQL, dari SQL kita akan mempelajari konsep dan manajemen relasi. Menguasai SQL dengan baik saja sudah cukup untuk menghasilkan berbagai aplikasi, tapi hanya dengan menguasai SQL kita masih butuh bantuan dari tool database khusus semisal Microsoft Access jika di window, OpenOffice Base jika itu di Linux Sedang untuk aplikasi Berbasis web kita bisa menggunakan Aplikasi yang berfungsi sebagai Kode Generator dan ada banyak sekali alternative yang tersedia untuk itu.
 
-Setelah menguasai SQL dengan baik barulah kita menguasai modal yang cukup untuk mulai mempelajari cara membuat aplikasi yang berfitur lebih canggih, karena tool database sebagaimana disebutkan diatas miliki keterbatasan dalam hal kostumasi, karena memang hanya dibuat secara khusus untuk pengguna awam yang menginginkan penggunaan aplikasi berdatabase untuk penggunaan sehari-hari.
+Setelah menguasai SQL dengan baik barulah kita menguasai modal yang cukup untuk mulai mempelajari cara membuat aplikasi yang berfitur lebih canggih, karena tool database sebagaimana disebutkan diatas miliki keterbatasan dalam hal kostumasi, karena memang hanya dibuat secara khusus untuk pengguna awam yang menginginkan penggunaan aplikasi ber-database untuk penggunaan sehari-hari.
 
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
