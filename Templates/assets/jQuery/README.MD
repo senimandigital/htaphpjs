@@ -87,7 +87,7 @@ $(document).ready(function(){
 });
 ```
 # jQuery Magic (Cousin Evaluation)
-# jQuery Magic (Falimy Evaluation)
+# jQuery Magic (Family Evaluation)
 
 # Kesimpulan
 DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada DOM manipulation melainkan juga pada XML atau lebih tepat-nya kemampuan manipulasi data pada Variable yang berisi Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan di-tinggalkan.
