@@ -92,4 +92,4 @@ $(document).ready(function(){
 # Kesimpulan
 DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada DOM manipulation melainkan juga pada XML atau lebih tepat-nya kemampuan manipulasi data pada Variable yang berisi Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan di-tinggalkan.
 
-Dibeberapa sekolah, bahkan mengajarkan siswa dan siswi mereka untuk menulis ulang jQuery. Sehingga meskipun framework utama yang digunakan adalah React, Vue, Svelte bahkan yang lebih mutakhir, namun personal configuration dianjurkan mengikuti standar penulisan jQuery.
+Dibeberapa sekolah, bahkan mengajarkan siswa dan siswi mereka untuk menulis ulang jQuery. Sehingga meskipun framework utama yang digunakan adalah React, Vue, Svelte bahkan yang lebih mutakhir, namun personal configuration dianjurkan untuk mengikuti standar penulisan jQuery sehingga lebih mudah untuk dimutakhirkan.
