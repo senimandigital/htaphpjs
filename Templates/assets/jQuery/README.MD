@@ -96,6 +96,6 @@ Dibeberapa sekolah, bahkan mengajarkan siswa dan siswi mereka untuk menulis ulan
 
 Karakter $ pada javascript telah di korelasikan dengan kesempurnaan, maksudnya ketika kita melihat fungsi:
 ```Javascript
-$('selectror')
+$('selector')
 ```
-Maka kita percaya outpunya tidak akan error, karena fungsi tersebut sudah dikostume untuk melakukan try dan error handling secara otomatis. bahkan meski itu bukan script resmi yang dikembangkan oleh tim develover jQuery. jQuery sebagai sebuah Framework mungkin untuk ditinggalkan, tapi untuk arsitektur-nya tidak akan pernah ditinggalkan, oleh karena itu belajar jQuery tidak akan pernah menjadi tidak relevant dengan jaman. karena simbol $ pada javascript telah mengalami pergeseran makna mejadi simbol personalisasi.
+Maka kita percaya outpunya tidak akan error, karena fungsi tersebut sudah dikostumasi untuk melakukan try dan error handling secara otomatis. bahkan meski itu bukan script resmi yang dikembangkan oleh tim develover jQuery. jQuery sebagai sebuah Framework mungkin untuk ditinggalkan, tapi untuk arsitektur-nya tidak akan pernah ditinggalkan, oleh karena itu belajar jQuery tidak akan pernah menjadi tidak relevant dengan zaman. karena simbol $ pada javascript telah mengalami pergeseran makna mejadi simbol personalisasi.
