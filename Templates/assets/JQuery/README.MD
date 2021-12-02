@@ -5,7 +5,7 @@ Disamping menyederhanakan penggunaan javascript, jQuery juga meningkatkan fungsi
 
 Maksud dari peningkatan fungsional disini adalah, ketika logika yang sama kita tulis menggunakan javascript native output yang dihasilkan bisa tidak sebaik ketika menulis-nya dengan jQuery. hal ini dikarenakan jQuery secara otomatis melakukan yang namanya Try and Error, jika kita menulis aplikasi kode javascript native secara manual, maka untuk mengahsilkan kinerja yang setara dengan ketika kita menuliskannya dengan jQuery maka bisa saja kode program 4 baris dari jQuery akan setara puluhan bahkan ratusan baris kode program. Dalam kondisi ini, menggunakan jQuery jauh lebih lebih baik dan sangat direkomendasikan daripada menggunakan javascript native.
 
-# jQuery Magic (Basic)
+# jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
 
 ```Javascript
