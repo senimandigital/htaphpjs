@@ -26,7 +26,9 @@ Perbedaan programmer pemula dengan programmer senior terletak terletak pada kema
 
 Perbedaan paling mendasar antara programmer pemula dengan programmer senior adalah pada penerapan tehnik magic atau tidak pada aplikasi yang ditulis-nya. Programmer pemula cenderung menulis kode program untuk meningkatkan kemampuan dirinya sendiri, sedangkan programmer senior cendrung menulis kode program untuk meningkatkan kemampuan dari aplikasi yang ditulis-nya.
 
-Untuk naik kelas dari Junior Programmer menjadi Senior Programmer, Seseorang harus sudah familiar dengan implementasi tehnik recursive dan hierarki data. 
+Untuk naik kelas dari Junior Programmer menjadi Senior Programmer, Seseorang harus sudah familiar dengan implementasi tehnik recursive dan manipulasi hierarki data. untuk tehnik recursive sudah sudah dipelajari saat menempuh pendidikan formal setiap programmer pastinya sudah familiar dengan istilah ini, namun membuat praktek dalam fungsi recursive dalam masalah sesungguh-nya akan sangat terlambat untuk diterapkan.
+
+Untuk tehnik manipulasi hierarki data, mungkin tidak didapat didunia pendidikan, hierari data akan kita ilustrasikan seperti hubungan kekerabatan dimana ada data yang diposisikan sebagai anak, ada data yang diposisikan sebagai parent, ada data yang diposisikan sebagai sepupu, ada data yang diposisikan sebagai leluhur dan seterus-nya.
 
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
