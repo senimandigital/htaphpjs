@@ -89,4 +89,7 @@ $(document).ready(function(){
 # jQuery Magic (Cousin Evaluation)
 # jQuery Magic (Falimy Evaluation)
 
-Perlu diketahui bahwa DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada dom melainkan juga pada XML atau lebih tepatnya kemampuan manipulasi data pada Variable Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan ditinggalkan.
+# Kesimpulan
+DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada DOM manipulation melainkan juga pada XML atau lebih tepat-nya kemampuan manipulasi data pada Variable yang berisi Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan di-tinggalkan.
+
+Dibeberapa sekolah, bahkan mengajarkan siswa dan siswi mereka untuk menulis ulang jQuery. Sehingga meskipun framework utama yang digunakan adalah React, Vue, Svelte bahkan yang lebih mutakhir, namun personal configuration dianjurkan mengikuti standar penulisan jQuery.
