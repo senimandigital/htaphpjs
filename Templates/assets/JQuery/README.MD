@@ -10,7 +10,13 @@ Mindset Programing anda-lah hal pertama yang harus bejalan lurus ketika kita mul
 
 Apapun bahasa pemrograman yang kita pilih, hal pertama yang harus kita kuasai dan maksimalkan adalah skill dalam menguasai SQL, dari SQL kita akan mempelajari konsep dan manajemen relasi. Menguasai SQL dengan baik saja sudah cukup untuk menghasilkan berbagai aplikasi, tapi hanya dengan menguasai SQL kita masih butuh bantuan dari tool database khusus semisal Microsoft Access jika di window, OpenOffice Base jika itu di Linux Sedang untuk aplikasi Berbasis web kita bisa menggunakan Aplikasi yang berfungsi sebagai Kode Generator dan ada banyak sekali alternative yang tersedia untuk itu.
 
-Setelah menguasai SQL dengan baik barulah kita menguasai modal yang cukup untuk mulai mempelajari cara membuat aplikasi yang berfitur lebih canggih, karena tool database sebagaimana disebutkan diatas miliki keterbatasan dalam hal kostumasi, karena memang hanya dibuat secara khusus untuk pengguna awam yang menginginkan penggunaan aplikasi ber-database untuk penggunaan sehari-hari.
+Setelah menguasai SQL dengan baik barulah kita memiliki modal yang cukup untuk mulai mempelajari cara membuat aplikasi yang berfitur lebih canggih, karena tool database sebagaimana disebutkan diatas miliki keterbatasan dalam hal kostumasi, karena memang hanya dibuat secara khusus untuk pengguna awam yang menginginkan penggunaan aplikasi ber-database untuk penggunaan sehari-hari.
+
+Ketika sudah mulai memasuki dunia pemrogamman, barulah hanya menguasai SQL menjadi tidak lagi cukup, karena kita minimal harus menguasai format data populer lain-nya, terutama DOM, JSON dan XML. Kita tidak perlu khawatir mengalami kesulitan dalam menguasai DOM, JSON dan XML. Pertama-tama kita hanya perlu memahami bahwa DOM, JSON dan XML serta berbagai varian-nya hanya-lah sebuah format data yang berstandar lebih tinggi dan kompleks.
+
+Untuk mengeliminasi kekhawatiran bahwa menguasai bahasa pemrogramman itu sulit, maka hal pertama yang diperlu dilakukan adalah sekali lagi meluruskan kembali Mindset kita. Untuk memahami pemrograman yang pelu kita kuasai hanyalah struktur data, dari SQL kita sudah belajar dasar Relasi, Struktur Data, Procedural dalam bahasa pemrogramman kita akan mendapatkan beberapa istilah tambahan seperti Function, Array dan Object.
+
+Disetiap bahasa pemrograman sudah tersedia libarary untuk memparser File HTML, JSON dan XML kedalam Varibel baik sebagai Arrai atau Object maupun kombinasi kedua-nya. Jika anda fokus mencari materi dan mempelajari fungsi-fungsi pengolahan array dan object didalam variabel, maka anda akan menguasai bahasa pemrograman dengan sangat cepat.
 
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
@@ -48,7 +54,7 @@ $(document).ready(function() {
     change: function() { 
       $.get( $this.attr('watch-innerhtml-reload-string-from-url') + $(this).val(), function(data){ $this.html( data );  });  
     }  
-  }); /* $( eval('$(this).attr( "watch" )') ).on({ */
+  }); /* end $( eval('$(this).attr( "watch" )') ).on({ */
  }); /* end $("[watch]").each(function() { */
 }); /* end $(document).ready(function() { */
 ```
