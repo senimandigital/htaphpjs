@@ -89,4 +89,4 @@ $(document).ready(function(){
 # jQuery Magic (Cousin Evaluation)
 # jQuery Magic (Falimy Evaluation)
 
-Perlu diketahui bahwa DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada dom melainkan juga pada XML atau lebih tepatnya pada variable Object, dengan kenyataan ini jQuery tidak akan pernah menjadi teknologi yang usang atau ditinggalkan.
+Perlu diketahui bahwa DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada dom melainkan juga pada XML atau lebih tepatnya kemampuan manipulasi data pada Variable Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan ditinggalkan.
