@@ -16,7 +16,13 @@ Ketika sudah mulai memasuki dunia pemrogamman, barulah hanya menguasai SQL menja
 
 Untuk mengeliminasi kekhawatiran bahwa menguasai bahasa pemrogramman itu sulit, maka hal pertama yang diperlu dilakukan adalah sekali lagi meluruskan kembali Mindset kita. Untuk memahami pemrograman yang pelu kita kuasai hanyalah struktur data, dari SQL kita sudah belajar dasar Relasi, Struktur Data, Procedural dalam bahasa pemrogramman kita akan mendapatkan beberapa istilah tambahan seperti Function, Array dan Object.
 
-Disetiap bahasa pemrograman sudah tersedia libarary untuk memparser File HTML, JSON dan XML kedalam Varibel baik sebagai Arrai atau Object maupun kombinasi kedua-nya. Jika anda fokus mencari materi dan mempelajari fungsi-fungsi pengolahan array dan object didalam variabel, maka anda akan menguasai bahasa pemrograman dengan sangat cepat.
+Disetiap bahasa pemrograman sudah tersedia libarary untuk mem-parsing File HTML, JSON dan XML kedalam Varibel baik sebagai Arrai atau Object maupun kombinasi kedua-nya. Jika anda fokus mencari materi dan mempelajari fungsi-fungsi pengolahan array dan object didalam variabel, maka anda akan menguasai bahasa pemrograman dan framework apapun dengan sangat cepat.
+
+setelah mulai memahami Array dan Object dan tau cara menggunakan berbagai fungsi dengan benar, disitu anda sudah menjadi seorang programmer, selanjut-nya hanya dibutuhkan jam terbang untuk meningkatkan pengalaman dan kecepatan dalam membangun Aplikasi.
+
+Apakah memang sesederhana itu, benar memang hanya sesederhana itu, yang tidak sederhana dari pemrograman adalah sesuatu yang disebut dengan "tehnik" ada banyak sekali tehnik pemrogramman setiap orang akan memiliki pola pikir dan cara yang berbeda tentang bagaimana mereka menulis kode program.
+
+Perbedaan programmer pemula dengan programmer senior terletak terletak pada kemampuan aplikasi yang dia tulis dalam pengolahan data. Aplikasi yang ditulis oleh seorang pemula akan memiliki kode program yang lebih boros dari pada kode program yang ditulis oleh programmer senior.
 
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
