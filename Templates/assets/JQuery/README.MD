@@ -40,7 +40,7 @@ $(document).ready(function() {
   $this = $(this);
   $( eval('$(this).attr( "watch" )') ).on({
     change: function() { 
-            $.get( $this.attr('watch-innerhtml-reload-string-from-url') + $(this).val(), function( data ) { $this.html( data );  });  
+      $.get( $this.attr('watch-innerhtml-reload-string-from-url') + $(this).val(), function(data){ $this.html( data );  });  
     }  
   }); /* $( eval('$(this).attr( "watch" )') ).on({ */
  }); /* end $("[watch]").each(function() { */
@@ -54,4 +54,4 @@ Dengan Tehnik Magic ini kita bertujuan membuat aplikasi yang merubah perilaku pa
         watch-innerhtml-reload-string-from-url="http://api.senimandigital.com/database_table_to_dom_select_option.php?database=" />
 </select>
 ```
-Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secsara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini anak angkat meminta kepada ibunya angkatnya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table.
+Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secsara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini anak angkat meminta kepada ibunya angkat-nya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table yang baru.
