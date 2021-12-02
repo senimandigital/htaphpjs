@@ -28,7 +28,9 @@ Perbedaan paling mendasar antara programmer pemula dengan programmer senior adal
 
 Untuk naik kelas dari Junior Programmer menjadi Senior Programmer, Seseorang harus sudah familiar dengan implementasi tehnik recursive dan manipulasi hierarki data. untuk tehnik recursive sudah sudah dipelajari saat menempuh pendidikan formal setiap programmer pastinya sudah familiar dengan istilah ini, namun membuat praktek dalam fungsi recursive dalam masalah sesungguh-nya akan sangat terlambat untuk diterapkan.
 
-Untuk tehnik manipulasi hierarki data, mungkin tidak didapat didunia pendidikan, hierari data akan kita ilustrasikan seperti hubungan kekerabatan dimana ada data yang diposisikan sebagai anak, ada data yang diposisikan sebagai parent, ada data yang diposisikan sebagai sepupu, ada data yang diposisikan sebagai leluhur dan seterus-nya.
+Untuk tehnik manipulasi hierarki data, mungkin tidak didapat didunia pendidikan, hierarki data akan kita ilustrasikan seperti hubungan kekerabatan dimana ada data yang diposisikan sebagai anak, ada data yang diposisikan sebagai parent, ada data yang diposisikan sebagai sepupu, ada data yang diposisikan sebagai leluhur, ada data yang dipisisikan sebagai orang tua angkat, dan seterus-nya.
+
+Untuk lebih memahami tentang mabagimana memanipulasi data berorientasi hieraki/kekerabatan ini maka sangat cocok untuk menggunakan framework yang memang dibuat untuk menyederhanakan bahasa pemrograman, dan framework tersebut tidak lain dan tidak bukan adalah jQuery.
 
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
