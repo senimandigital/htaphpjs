@@ -8,6 +8,10 @@ Maksud dari peningkatan fungsional disini adalah, ketika logika yang sama kita t
 # Mindset Programming
 Mindset Programing anda-lah hal pertama yang harus bejalan lurus ketika kita mulai menerima pemrograman sebagai sebuah Profesi. Mindset yang belum lurus akan membuat kita berjalan memutar jauh untuk mencapai tujuan dari pemrogramman.
 
+Apapun bahasa pemrograman yang kita pilih, hal pertama yang harus kita kuasai dan maksimalkan adalah skill dalam menguasai SQL, dari SQL kita akan mempelajari konsep dan manajemen relasi. Menguasai SQL dengan baik saja sudah cukup untuk menghasilkan berbagai aplikasi, tapi hanya dengan menguasai SQl kita masih butuh bantuan dari tool database khusus semisal Microsoft Access jika di window, atau OpenOffice Base jika itu dilinux.
+
+Setelah menguasai SQL dengan baik barulah kita perlu mempelajari cara membuat aplikasi yang berfitur lebih canggih, karena tool diatas miliki keterbatasan dalam hal kostumasi.
+
 # jQuery Magic (Self Evaluation)
 Praktek terbaik menggunakan jQuery maupun javascript adalah dengan menerapkan tehnik magic, apa yang kami sebut dengan tehnik magic adalah sebuah mode pemrograman berbasis behavior. sebagai contoh coba anda perhatikan script berikut:
 
