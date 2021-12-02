@@ -43,13 +43,9 @@ $(document).ready(function() {
 });
 ```
 
-Kode diatas terlihat sederhana, tapi powernya bukan pada kesederhaan kode programnya, melainkan lebih kepada menfaat script tersebut.
+Kode diatas terlihat sederhana, tapi powernya bukan pada kesederhaan kode programnya, melainkan lebih kepada menfaat script tersebut. Sedang penjelasan untuk kode program diatas adalah: periksa semua element yang memiliki attribute name, apabila ditemukan maka tambahkan attribute id dengan value sama dengan value pada attribute name.
 
-Penjelasan untuk kode program diatas adalah: periksa semua element yang memiliki attribute name, apabila ditemukan maka tambahkan attribute id dengan value sama dengan value pada attribute name.
-
-Dimana letak magic-nya dari script yang terlihat biasa ini:
-
-Setelah kita menulis dan menyimpan scipt magic diatas agar bisa berjalan secara global, maka kemudia programmer tidak lagi perlu menulis
+Dimana letak magic-nya dari script yang terlihat biasa ini... ? Letak magic-nya akan dapat dirasakan setelah kita menulis dan menyimpan scipt magic diatas agar bisa berjalan secara global, maka kemudian programmer tidak lagi perlu menulis:
 ```Html
 <input name="username" id="username" />
 ```
