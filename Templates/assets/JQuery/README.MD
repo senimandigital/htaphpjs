@@ -76,4 +76,4 @@ Dengan Tehnik Magic ini kita bertujuan membuat aplikasi yang merubah perilaku pa
         watch-innerhtml-reload-string-from-url="http://api.senimandigital.com/database_table_to_dom_select_option.php?database=" />
 </select>
 ```
-Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secsara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini anak angkat meminta kepada ibunya angkat-nya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table yang baru.
+Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini ilustrasinya adalah "anak angkat yang meminta kepada ibu" angkat-nya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table yang baru.
