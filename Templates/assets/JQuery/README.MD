@@ -1,4 +1,4 @@
-*** Praktek Terbaik Menggunakan jQuery Versi 1
+# Praktek Terbaik Menggunakan jQuery Versi 1
 jQuery Versi 1 sejati-nya adalah Framework untuk menyederhanakan penggunaan Javascript.
 Disamping menyederhanakan penggunaan javascript, jQuery juga meningkatkan fungsional dari javascript itu sendiri.
 
