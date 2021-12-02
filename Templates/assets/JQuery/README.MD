@@ -86,5 +86,5 @@ $(document).ready(function(){
   $("span").closest("ul").css({"color": "red", "border": "2px solid red"});
 });
 ```
-# jQuery Magic Cousin Evaluation
-# jQuery Magic Falimy Evaluation
+# jQuery Magic (Cousin Evaluation)
+# jQuery Magic (Falimy Evaluation)
