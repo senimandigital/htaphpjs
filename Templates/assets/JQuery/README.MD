@@ -79,3 +79,5 @@ Dengan Tehnik Magic ini kita bertujuan membuat aplikasi yang merubah perilaku pa
 Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini ilustrasinya adalah "anak angkat yang meminta kepada ibu" angkat-nya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table yang baru.
 # jQuery Magic (Leluhur Manipulation)
 Dalam dunia nyata, terkadang kita hanya tau siapa nama ayah, ibu serta nama-nama dari nakek dan nenek kita sedangkan untuk nama kakek dari kakek kita, kita belum tentu tahu, ketika mencoba bertanya ke orang tua kita mungkin jawaban merka adalah "pamali" nyebut nama orang tua.
+
+Namun kenyataanya kita tetap bisa menyebutkan satu atau dua nama leluhur kita, yaitu Adam dan Hawa.
