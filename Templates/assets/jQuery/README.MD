@@ -14,19 +14,19 @@ Setelah menguasai SQL dengan baik barulah kita memiliki modal yang cukup untuk m
 
 Ketika sudah mulai memasuki dunia pemrogamman, barulah hanya menguasai SQL menjadi tidak lagi cukup, karena kita minimal harus menguasai format data populer lain-nya, terutama DOM, JSON dan XML. Kita tidak perlu khawatir mengalami kesulitan dalam menguasai DOM, JSON dan XML. Pertama-tama kita hanya perlu memahami bahwa DOM, JSON dan XML serta berbagai varian-nya hanya-lah sebuah format data yang berstandar lebih tinggi dan kompleks.
 
-Untuk mengeliminasi kekhawatiran bahwa menguasai bahasa pemrogramman itu sulit, maka hal pertama yang diperlu dilakukan adalah sekali lagi meluruskan kembali Mindset kita. Untuk memahami pemrograman yang pelu kita kuasai hanyalah struktur data, dari SQL kita sudah belajar dasar Relasi, Struktur Data, Procedural dalam bahasa pemrogramman kita akan mendapatkan beberapa istilah tambahan seperti Function, Array dan Object.
+Untuk mengeliminasi kekhawatiran bahwa menguasai bahasa pemrogramman itu sulit, maka hal pertama yang diperlu dilakukan adalah sekali lagi meluruskan kembali Mindset kita. Untuk memahami pemrograman yang pelu kita kuasai hanyalah struktur data, dari SQL kita sudah belajar dasar Relasi, Struktur Data, Procedural, Trigger dalam bahasa pemrogramman kita akan mendapatkan beberapa istilah tambahan seperti Function, Array dan Object.
 
-Disetiap bahasa pemrograman sudah tersedia libarary untuk mem-parsing File HTML, JSON dan XML kedalam Varibel baik sebagai Arrai atau Object maupun kombinasi kedua-nya. Jika anda fokus mencari materi dan mempelajari fungsi-fungsi pengolahan array dan object didalam variabel, maka anda akan menguasai bahasa pemrograman dan framework apapun dengan sangat cepat.
+Disetiap bahasa pemrograman sudah tersedia libarary untuk mem-parsing File HTML, JSON dan XML kedalam Varibel baik sebagai Array atau Object maupun kombinasi kedua-nya. Jika anda fokus mencari materi dan mempelajari fungsi-fungsi pengolahan Array dan Object didalam variabel, maka anda akan menguasai bahasa pemrograman dan framework apapun dengan sangat cepat.
 
-setelah mulai memahami Array dan Object dan tau cara menggunakan berbagai fungsi dengan benar, disitu anda sudah menjadi seorang programmer, selanjut-nya hanya dibutuhkan jam terbang untuk meningkatkan pengalaman dan kecepatan dalam membangun Aplikasi.
+Setelah mulai memahami Array dan Object dan tau cara menggunakan berbagai fungsi dengan benar, disitu anda sudah menjadi seorang programmer, selanjut-nya hanya dibutuhkan jam terbang untuk meningkatkan pengalaman dan "kecepatan dalam membangun Aplikasi".
 
-Apakah memang sesederhana itu, benar memang hanya sesederhana itu, yang tidak sederhana dari pemrograman adalah sesuatu yang disebut dengan "tehnik" ada banyak sekali tehnik pemrogramman setiap orang akan memiliki pola pikir dan cara yang berbeda tentang bagaimana mereka menulis kode program.
+Apakah memang sesederhana itu, benar memang hanya sesederhana itu, yang tidak sederhana dari pemrograman adalah sesuatu yang disebut dengan "tehnik" ada banyak sekali tehnik pemrogramman setiap orang akan memiliki pola pikir dan cara yang berbeda tentang bagaimana mereka menulis kode program. 
 
-Perbedaan programmer pemula dengan programmer senior terletak terletak pada kemampuan aplikasi yang dia tulis dalam pengolahan data. Aplikasi yang ditulis oleh seorang pemula akan memiliki kode program yang lebih boros dari pada kode program yang ditulis oleh programmer senior.
+Perbedaan programmer pemula dengan programmer senior terletak pada kemampuan aplikasi yang dia tulis dalam pengolahan data. Aplikasi yang ditulis oleh seorang pemula akan memiliki kode program yang lebih boros dari pada kode program yang ditulis oleh programmer senior.
 
 Perbedaan paling mendasar antara programmer pemula dengan programmer senior adalah pada penerapan tehnik magic atau tidak pada aplikasi yang ditulis-nya. Programmer pemula cenderung menulis kode program untuk meningkatkan kemampuan dirinya sendiri, sedangkan programmer senior cendrung menulis kode program untuk meningkatkan kemampuan dari aplikasi yang ditulis-nya.
 
-Untuk naik kelas dari Junior Programmer menjadi Senior Programmer, Seseorang harus sudah familiar dengan implementasi tehnik recursive dan manipulasi hierarki data. untuk tehnik recursive sudah sudah dipelajari saat menempuh pendidikan formal setiap programmer pastinya sudah familiar dengan istilah ini, namun membuat praktek dalam fungsi recursive dalam masalah sesungguh-nya akan sangat terlambat untuk diterapkan.
+Untuk naik kelas dari Junior Programmer menjadi Senior Programmer, Seseorang harus sudah familiar dengan implementasi tehnik recursive dan manipulasi hierarki data. untuk tehnik recursive sudah dipelajari saat menempuh pendidikan formal setiap programmer pastinya sudah familiar dengan istilah ini, namun praktek dalam membuat fungsi recursive dalam masalah sesungguh-nya akan sangat terlambat untuk diterapkan.
 
 Untuk tehnik manipulasi hierarki data, mungkin tidak didapat didunia pendidikan, hierarki data akan kita ilustrasikan seperti hubungan kekerabatan dimana ada data yang diposisikan sebagai anak, ada data yang diposisikan sebagai parent, ada data yang diposisikan sebagai sepupu, ada data yang diposisikan sebagai leluhur, ada data yang dipisisikan sebagai orang tua angkat, dan seterus-nya.
 
@@ -78,9 +78,9 @@ Dengan Tehnik Magic ini kita bertujuan membuat aplikasi yang merubah perilaku pa
 ```
 Dalam code diatas element select dengan id database dijadikan sebagai "parent/reverensi/orang tua angkat" secara otomatis oleh element select yang memiliki attribute watch. Dalam contoh ini ilustrasinya adalah "anak angkat yang meminta kepada ibu" angkat-nya apabila element parent mengalami perubahan maka perintahkan element children merload daftar nama table yang baru.
 # jQuery Magic (Ancestor Manipulation)
-Dalam dunia nyata, terkadang kita hanya tau siapa nama ayah, ibu serta nama-nama dari nakek dan nenek kita sedangkan untuk nama kakek dari kakek kita, kita belum tentu tahu, ketika mencoba bertanya ke orang tua kita mungkin jawaban merka adalah "pamali" nyebut nama orang tua.
+Dalam dunia nyata, terkadang kita hanya tau siapa nama ayah, ibu serta nama-nama dari nakek dan nenek kita sedangkan untuk nama kakek dari kakek kita, kita belum tentu tahu, ketika mencoba bertanya ke orang tua kita, mungkin jawaban merka adalah "pamali" nyebut nama orang tua.
 
-Namun kenyataanya kita tetap bisa menyebutkan satu atau dua nama leluhur kita, yaitu minimal Adam dan Hawa, bahkan dalam beberapa kasus misal dalam kasus saya sensiri saya masih bisa menyebutkan nama-nama leluhur saya hingga 6 generasi sebelum-nya. dalam kasus orang lain mereka bahkan bisa menemukan jalur kekerabatan hingga ke "Rasulullah Shalallahu 'Alaihi Wa Sallam".
+Namun kenyataanya kita tetap bisa menyebutkan satu atau dua nama leluhur kita, yaitu minimal Adam dan Hawa, bahkan dalam beberapa kasus misal dalam kasus saya sendiri saya masih bisa menyebutkan nama-nama leluhur saya hingga 6 generasi sebelum-nya. dalam kasus orang lain mereka bahkan bisa menemukan jalur kekerabatan hingga ke "Rasulullah Shalallahu 'Alaihi Wa Sallam".
 ```Javascript
 $(document).ready(function(){
   $("span").closest("ul").css({"color": "red", "border": "2px solid red"});
