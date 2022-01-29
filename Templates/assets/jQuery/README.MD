@@ -89,6 +89,31 @@ $(document).ready(function(){
 # jQuery Magic (Cousin Evaluation)
 # jQuery Magic (Family Evaluation)
 
+# Masalah Dengan jQuery
+Bisa dimengerti, kalo hari ini ada orang yang ga mau meload library jQuery dalam website-nya, karena ukuran file-nya jQuery memang terlalu besar dan kurang dari 5% source didalam library itu yang benar-benar dibutuhkan oleh sebuah website.
+
+tapi yang tidak masuk akal adalah jika calon konsumen melarang kita menggunakan karakter tunggal $ untuk menampung object, method, prototype, function dan lain-lain yang berkenaan dengan javascript.
+
+arti-nya apa... ? arti-nya adalah kita hanya perlu menyusun ulang object $ pada javascript. caranya: kita bisa mendefinisikan sendiri object apa yang mau kita masukan kedalam karakter $ ini, contoh:
+
+https://github.com/mskims/jquery-lite/blob/master/jquery-lite.js
+
+apabila ingin menambahkan fungsi ajax, kita bisa cari di github contoh library nya semisal:
+
+https://github.com/jacomyal/djax/blob/master/djax.js
+
+dengan cara ini, kita tetap bisa menggunakan skill jQuery yang sudah kita kuasai sebelum-nya. dan personal library javascript kita juga kalo dipampatkan akan berisi kurang dari 50 baris kode pemrogramman.
+
+contoh-nya bisa lihat disini, baris 55 sampai baris 81. http://cms.senimandigital.com/index.php/php_mysql/1.0.0/source/generator_offline
+
+intinya, ga perlu mencari alternatif library lain untuk datatables, karena pada akhirnya tetap akan meload library berukuran total lebih dari 500kb dan akhirnya kita hanya memakai kurang dari 5% resource-nya. disamping itu anda sudah berada dijalan yang benar jika menguasai jQuery, selanjut-nya hanya perlu lebih memahami bagaimana object $ itu dibentuk oleh jQuery, dengan memahami itu anda bisa mendefinisikan ulang apapun didalam object $ ini.
+
+untuk menyelesaikan masalah keenganan klient meload library javascript seperti jQuery etc, jauh lebih bijak menyusun ulang versi kita component didalam object $ itu sendiri, dengan mengcopy paste sample code "dari berbagai library lite" yang bisa kita dapat dengan mudah di-github. 
+
+setelah ketemu code referensi library lite, tinggal buka notepad, find dan replace prototype name, atau function name atau class name nya, lalu inject ke Object $ tadi. kok kayanya simple banget, ya memang simple.
+
+dengan cara ini bahkan kita juga bisa saja "mengutil" script method dari framework alternative jQuery semisal dari https://underscorejs.org/.
+
 # Kesimpulan
 DOM manipulation adalah istilah untuk mempopulerkan jQuery, sedangkan kemampuan jQuery tidak terbatas pada DOM manipulation melainkan juga pada XML atau lebih tepat-nya kemampuan manipulasi data pada Variable yang berisi Object, dengan kenyataan ini jQuery Core tidak akan pernah menjadi teknologi yang usang atau bahkan di-tinggalkan.
 
