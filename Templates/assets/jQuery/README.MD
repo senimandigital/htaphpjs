@@ -89,10 +89,10 @@ $(document).ready(function(){
 # jQuery Magic (Cousin Evaluation)
 # jQuery Magic (Family Evaluation)
 
-# Masalah Dengan jQuery
-Bisa dimengerti, kalo hari ini ada orang yang ga mau meload library jQuery dalam website-nya, karena ukuran file-nya jQuery memang terlalu besar dan kurang dari 5% source didalam library itu yang benar-benar dibutuhkan oleh sebuah website.
+# Perlukah meload Library jQuery
+Bisa dimengerti, kalo hari ini ada orang yang ga mau meload library jQuery dalam website-nya, karena ukuran file-nya jQuery memang terlalu besar dan kurang dari 5% source didalam library itu yang benar-benar dibutuhkan oleh sebuah website, hal ini juga sudah menjadi perdebatan sejak awal jQuery itu diperkenalkan.
 
-tapi yang tidak masuk akal adalah jika calon konsumen melarang kita menggunakan karakter tunggal $ untuk menampung object, method, prototype, function dan lain-lain yang berkenaan dengan javascript.
+Tapi yang tidak masuk akal adalah jika calon konsumen melarang kita menggunakan karakter tunggal $ untuk menampung object, method, prototype, function dan lain-lain yang berkenaan dengan javascript.
 
 arti-nya apa... ? arti-nya adalah kita hanya perlu menyusun ulang object $ pada javascript. caranya: kita bisa mendefinisikan sendiri object apa yang mau kita masukan kedalam karakter $ ini, contoh:
 
