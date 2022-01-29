@@ -106,7 +106,7 @@ dengan cara ini, kita tetap bisa menggunakan skill jQuery yang sudah kita kuasai
 
 contoh-nya bisa lihat disini, baris 55 sampai baris 81. http://cms.senimandigital.com/index.php/php_mysql/1.0.0/source/generator_offline
 
-intinya, ga perlu mencari alternatif library lain untuk datatables, karena pada akhirnya tetap akan meload library berukuran total lebih dari 500kb dan akhirnya kita hanya memakai kurang dari 5% resource-nya. disamping itu anda sudah berada dijalan yang benar jika menguasai jQuery, selanjut-nya hanya perlu lebih memahami bagaimana object $ itu dibentuk oleh jQuery, dengan memahami itu anda bisa mendefinisikan ulang apapun didalam object $ ini.
+Intinya, ga perlu mencari alternatif library lain untuk untuk berbagai plugins jQUery, karena pada akhirnya tetap akan meload library berukuran total lebih dari 500kb dan akhir-nya kita hanya memakai kurang dari 5% resource-nya. disamping itu anda sudah berada dijalan yang benar jika menguasai jQuery, selanjut-nya hanya perlu lebih memahami bagaimana object $ itu dibentuk oleh jQuery, dengan memahami itu anda bisa mendefinisikan ulang apapun didalam object $ ini.
 
 untuk menyelesaikan masalah keenganan klient meload library javascript seperti jQuery etc, jauh lebih bijak menyusun ulang versi kita component didalam object $ itu sendiri, dengan mengcopy paste sample code "dari berbagai library lite" yang bisa kita dapat dengan mudah di-github. 
 
